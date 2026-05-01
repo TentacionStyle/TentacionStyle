@@ -32,8 +32,8 @@ Me apasiona el **self-hosting** y la soberanía de datos. Mantengo mi propia inf
 
 #### **Main PC (Gaming & Dev)**
 * **CPU:** AMD Ryzen 5 3600 (6C/12T)
-* **GPU:** NVIDIA GeForce RTX 2070 SUPER 🟢
-* **RAM:** 16GB
+* **GPU:** NVIDIA GeForce RTX 2070 SUPER FoundersEdition 🟢
+* **RAM:** 16GB 2666 MT/s
 * **Storage:** 1TB NVMe Forgeon + 1.5TB SSD Kingston + 1TB HDD HGST
 
 #### **Server (ThinkStation P710)**
