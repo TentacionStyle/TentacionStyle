@@ -4,7 +4,7 @@
 - **Terminal:** ZSH
 
 ### 🏠 HomeLab & Self-Hosting
-Me apasiona el self-hosting y la privacidad de datos. Actualmente gestiono servicios en docker como:
+Me apasiona el self-hosting y la privacidad de datos. Actualmente gestiono servicios en Docker como:
 - **Jellyfin:** Mi **Netflix** privado.
 - **Vaultwarden:** Gestión segura de contraseñas.
 - **Nginx Proxy Manager:** Es mi proxy interno.
