@@ -30,22 +30,23 @@ Me apasiona el **self-hosting** y la soberanía de datos. Mantengo mi propia inf
 
 ### 🖥️ Hardware Infrastructure
 
-#### **Main PC (Gaming & Dev)**
+#### **Main PC (Gaming)**
+<img src="media/gaming.png" align="right" width="350px">
+
 * **CPU:** AMD Ryzen 5 3600 (6C/12T)
 * **GPU:** NVIDIA GeForce RTX 2070 SUPER FoundersEdition 🟢
 * **RAM:** 16GB 2666 MT/s
 * **Storage:** 1TB NVMe Forgeon + 1.5TB SSD Kingston + 1TB HDD HGST
 
+<br clear="right"/>
+
 #### **Server (ThinkStation P710)**
+<img src="media/server.png" align="right" width="350px">
+
 * **CPU:** Intel Xeon E5-2620 v4 (8C/16T)
 * **GPU:** NVIDIA Quadro K2200 (HW Transcoding)
 * **RAM:** 32GB DDR4 ECC
 * **Storage:** 500GB SSD Kingston + 2TB Mixed Storage (Toshiba)
 * **OS:** Windows Server 2025
 
----
-
-### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=TentacionStyle&show_icons=true&theme=tokyonight" alt="Oscar's Stats" />
-</p>
+<br clear="right"/>
