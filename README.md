@@ -1,16 +1,12 @@
-## Hi there 👋
+### 🛠️ My Tech Stack & Tools
+- **Editor:** [NeoVim](https://github.com/TentacionStyle/NeoVim-Config) (Configurado con Lazy.nvim)
+- **OS:** Windows 11 / Windows 10 LTSC / Windows Server 2025 / ArchLinux (WSL2 y VM)
+- **Terminal:** ZSH
 
-<!--
-**TentacionStyle/TentacionStyle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🏠 HomeLab & Self-Hosting
+Me apasiona el self-hosting y la privacidad de datos. Actualmente gestiono servicios en docker como:
+- **Jellyfin:** Mi **Netflix** privado.
+- **Vaultwarden:** Gestión segura de contraseñas.
+- **Nginx Proxy Manager:** Es mi proxy interno.
+- **Tailscale:** Mi red mesh privada para acceder a todo desde cualquier lugar.
+Cuento con una base de conociminetos privada en Confluence.
